@@ -1,2 +1,3 @@
 # titanic
-kaggle project about surviving to 
+kaggle project about surviving the titanic
+
